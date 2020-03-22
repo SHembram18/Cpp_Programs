@@ -29,7 +29,7 @@ N.B:-
 								1.Diptesh Choudhury
 								2.Himanshu Sekhar Sahoo
 								3.Chandrakant Jena
-								4.Soumyakant Sahoo
+								
 
 	                          	Created by   : -
 	                                                 	 Santosh Hembram
