@@ -49,7 +49,7 @@
 	number number :: divnum(number obj)	
 		{
 			number temp;
-			temp.num = num % obj.num;
+			temp.num = num / obj.num;
 			return temp;
 		}
 	int main()
@@ -58,22 +58,28 @@
 
 		obj1.getnum();
 		obj2.getnum();
+		cout<<"Displaying the 1st number-";
 		obj1.shownum();
+		cout<<"Displaying the 2nd number-";
 		obj2.shownum();
 
 		obj3 = obj1.addnum(obj2);
+		cout<<"Addition-"<<endl;
 		cout<<"obj1+obj2= ";
 		obj3.shownum();
 
 		obj3 = obj1.subnum(obj2);
+		cout<<"Substraction-"<<endl;
 		cout<<"obj1-obj2= ";
 		obj3.shownum();
 
 		obj3 = obj1.mulnum(obj2);
+		cout<<"Multiplication-"<<endl;
 		cout<<"obj1 * obj2 = ";
 		obj3.shownum();
 
 		obj3 = obj1.divnum(obj2);
+		cout<<"Division-"<<endl;
 		cout<<"obj1 / obj2 = ";
 		obj3.shownum();
 		
