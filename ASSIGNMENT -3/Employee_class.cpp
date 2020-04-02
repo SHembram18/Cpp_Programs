@@ -36,6 +36,7 @@
 
 		cout<<"Enter House rent allowance: ";
 		cin>>HRA;
+	
 	}
 	void employee :: show_info()
 	{
@@ -48,7 +49,7 @@
 	void employee :: calculating()
 	{
 		g_sal = b_sal + DA + HRA;
-		cout<<"Gross salary = "<<g_sal;
+		cout<<"Gross salary = "<<g_sal<<endl;
 
 		if ( g_sal > 60000)
 			count++;
@@ -65,13 +66,18 @@
 		
 		cout<<"---Enter data of the employee---"<<endl;
 		for(i=0;i<n;i++)
+		{
 			e[i].get_info();
+			cout<<"\n";
+		}
 		
 		cout<<"***Display data of the employee***"<<endl;
 		for(i=0;i<n;i++)	
 		{
 			e[i].show_info();
 			 e[i].calculating();
+			cout<<"\n";
+			
 		}
 		per = ((count/n)*100);
 		cout<<"The percentage of employee getting more than 60,000 = "<<per;
