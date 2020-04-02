@@ -10,7 +10,7 @@
 	{
 		char book_name[50];
 		char author_name[26];
-		int pub;
+		char pub[30];
 		int page;
 		static int count;
 		public:
@@ -26,7 +26,7 @@
 		cout<<"Enter author name:-";
 		cin.getline(author_name,26);
 		cout<<"Enter publication:-";
-		cin>>pub;
+		cin.getline(pub,30);
 		cout<<"Enter total page of the book:-";
 		cin>>page;
 	}
@@ -54,10 +54,16 @@
 	
 		cout<<"---Enter book details---"<<endl;
 		for(i=0;i<n;i++)
+		{
 			b[i].get_data();
+			cout<<"\n";
+		}
 		cout<<"***Displaying book details***"<<endl;
 		for(i=0;i<n;i++)
+		{
 			b[i].show_data();
+			cout<<"\n";
+		}
 		for(i=0;i<n;i++)
 		x = b[i].count_page();
 		cout<<"The books having more than page 500 = "<<x<<endl;
@@ -66,4 +72,5 @@
 
 		
 	
+		
 		
