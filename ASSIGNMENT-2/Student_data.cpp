@@ -60,13 +60,17 @@
 
 		cout<<"---Enter the student data---"<<endl;
 		for(i=0;i<n;i++)
+		{
 			s[i].getinfo();
+			cout<<"\n";
+		}
 
 		cout<<"-----Displaying the student data-----"<<endl;
 		for(i=0;i<n;i++)
 		{
 			s[i].showinfo();
 			s[i].grade();
+			cout<<"\n";
 		}
 		
 
