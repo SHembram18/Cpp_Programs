@@ -10,7 +10,7 @@
 		public :
 		Array(int s=5 )
 		{
-			n = 5;
+			n = s;
 			x = new int[n];
 		}
 		void getArray();
@@ -39,7 +39,7 @@
 
 	int main()
 	{
-		Array obj(10);
+		Array obj;
 		obj.getArray();
 		obj.showArray();
 
