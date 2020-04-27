@@ -1,46 +1,65 @@
 # Cpp_Programs
-C++ programs &amp;  lab_works [  2nd semester]
 
+All assignment work of IMCA done here.
+ 
+ Owner of the code :- Santosh Hembram
+ 
+## LINKS
 
+Instagram :- https://Instagram.com/hembram_beta
 
+Facebook :- https://www.facebook.com/santosh.hembram.796
+ 
+## Help
+### To debugging the error in the program
 
+  [Saumyakanta Sahoo](https://www.facebook.com/saumyakanta.raja)
+  
+  [Diptesh Choudhury](https://www.facebook.com/diptesh.choudhory)
+  
+  [Himanshu Sekhar Nayak](https://github.com/Himanshu40)
+  
+  [Chandrakant Jena](https://github.com/Chandrakant100)
+  
+          Thanks to my friends for solving the error in the code.
 
- “All the copyright resereved with @HembramBeta777"
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
+## Website
 
-		*   VMware Workstation 10.0
-		*   cent os
-		*    Linux  Destro\Virtual Machines\Cent OS\CentOS.vmx
-		*    geedit
-		
+  [GeeksforGeeks](https://www.geeksforgeeks.org/)
+    
+  [Codeforwin](https://www.codeforwin.org/)
+  
+  [Tutorialspoint](https://www.tutorialspoint.com/)
+  
+## Compiler/Editor used
 
-********Copyright Disclaimer under section 107 of the Copyright Act of 1976 ********
+ + [GCC(g++)](https://gcc.gnu.org/) compiler
+ + [gedit](https://www.gedit.org/) ( A source code editor)
+  
+## About OS
+  ### Vmware Workstation
+  
+  Version :- 10.0.0 build-1295980
+  
+  copyright@ 1998-2013 Vmware.Inc. All rights reserved
+  
+  OS - [CentOS](https://www.centos.org/)
+  
+  OS Family :- [Linux](https://www.linux.org/)
+  
+## CentOS
 
-N.B:-
+ Release 6.5(final)
+ 
+ Kernel Linux 2.6.32-431.el6.i686
+ 
+ GNOME 2.28.2
+ 
+## LICENSE
 
-           -The codes are no copied properties of other .
-
-           -All  codes are only for teaching purposes/assignment works.
-
-          - You can use this code.
-
-	Help & support to debugging the error in the program by:-
-								1.Diptesh Choudhury
-								2.Himanshu Sekhar Sahoo
-								3.Chandrakant Jena
-								
-
-	                          	Created by   : -
-	                                                 	 Santosh Hembram
-	                                            			ID:- #19IMCA042
-
-
-		                                            		*Gateway 4250s
-			                                              	*ACER
-		
-
-		
-
-Thanks to all my friends!!!!!!......................................................
-
+ [GPL v3](https://github.com/HembramBeta777/Cpp_Programs//blob/master/LICENSE)
+ 
+ 
+ ### THANKS FOR VISITING THE PAGE !!!!!
+ 
+   
