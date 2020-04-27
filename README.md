@@ -1,5 +1,7 @@
 # Cpp_Programs
 
+### Welcome to the Cpp_Programs repository.
+
 ### Language
  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWxyDCwqgUjpwJs-_YYWVGZYB5wSXJ-HLjIwkrpj340Y0FT_l&s)
@@ -65,5 +67,6 @@ Facebook : https://www.facebook.com/santosh.hembram.796
  
  
  ### THANKS FOR VISITING THE PAGE !!!!!
+ ![](https://img.freepik.com/free-vector/praying-hands-background_23-2148003586.jpg?size=338&ext=jpg)
  
    
