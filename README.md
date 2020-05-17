@@ -10,13 +10,13 @@ All assignment work of IMCA done here.
  
  Owner of the code :- Santosh Hembram
  
-## LINKS
+## LINKS ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-hand-down-30.png?raw=true)
 
-Instagram :- https://Instagram.com/hembram_beta
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-instagram-48.png?raw=true) :- https://Instagram.com/hembram_beta
 
-Facebook : https://www.facebook.com/santosh.hembram.796
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-facebook-48.png?raw=true) : https://www.facebook.com/santosh.hembram.796
  
-## Help
+## Help ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-meeting-30.png?raw=true)
 ### To debugging the error in the program
 
   [Saumyakanta Sahoo](https://www.facebook.com/saumyakanta.raja)
@@ -29,7 +29,7 @@ Facebook : https://www.facebook.com/santosh.hembram.796
   
           Thanks to my friends for solving the error in the code.
 
-## Website
+## Website ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-website-48.png?raw=true)
 
   [GeeksforGeeks](https://www.geeksforgeeks.org/)
     
@@ -37,7 +37,7 @@ Facebook : https://www.facebook.com/santosh.hembram.796
   
   [Tutorialspoint](https://www.tutorialspoint.com/)
   
-## Compiler/Editor used
+## Compiler/Editor used ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-edit-30.png?raw=true)
 
  + [GCC(g++)](https://gcc.gnu.org/) compiler
  + [gedit](https://www.gedit.org/) ( A source code editor)
@@ -53,7 +53,7 @@ Facebook : https://www.facebook.com/santosh.hembram.796
   
   OS Family :- [Linux](https://www.linux.org/)
   
-## CentOS
+## CentOS ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-operating-system-48.png?raw=true)
 
  Release 6.5(final)
  
@@ -67,6 +67,4 @@ Facebook : https://www.facebook.com/santosh.hembram.796
  
  
  ### THANKS FOR VISITING THE PAGE !!!!!
- ![](https://img.freepik.com/free-vector/praying-hands-background_23-2148003586.jpg?size=338&ext=jpg)
- 
-   
+ ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-pray-60.png?raw=true)
