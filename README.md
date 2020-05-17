@@ -4,7 +4,7 @@
 
 ### Language
  
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWxyDCwqgUjpwJs-_YYWVGZYB5wSXJ-HLjIwkrpj340Y0FT_l&s)
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-c++-96.png?raw=true)
 
 All assignment work of IMCA done here.
  
