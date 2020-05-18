@@ -1,0 +1,49 @@
+//Overoading pre-fix & post-fix operators
+
+	#include<iostream>
+	using namespace std;
+
+	class A
+	    {
+		int x;
+		public:
+		    void getdata();
+		    void show();
+	
+		A operator ++ ( )
+			{	
+				x = x+3;
+		
+			}
+	
+		 void operator ++ (int p)
+		        {
+				x = x+3;
+			}
+	};
+	void A :: getdata()
+	        {
+			cout<<"Enter x\n";
+			cin>>x;
+		}
+	void A :: show()
+		{
+			cout<<"x = "<<x<<endl;
+		}
+
+	int main()
+	{
+		A obj;
+
+		obj.getdata();
+		obj.show();
+
+		++ obj;
+		obj.show();
+		
+		obj ++;
+		obj.show();
+
+		return 0;
+	}
+	
