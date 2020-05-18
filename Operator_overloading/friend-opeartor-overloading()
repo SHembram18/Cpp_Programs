@@ -1,0 +1,46 @@
+// Friend operator overloading function
+
+	#include<iostream>
+	using namespace std;
+	
+	class A
+	   {
+		int x,y;
+		public:
+			void getdata();
+			void show();
+		friend A operator +(int p, A&obj);
+	    };
+	void A :: getdata()
+		{
+			cout<<"Enter x and y\n";
+			cin>>x>>y;
+		}
+	void A :: show()
+		{
+			cout<<"x = "<<x<<"\ty = "<<y<<endl;
+			cout<<"\n";
+		}
+	A operator +(int p, A &obj) 
+		{
+			A sum;
+
+			sum.x = p + obj.x;
+			sum.y = p + obj.y;
+			return sum;
+		}
+	int main()
+	{
+		A obj1,obj2;
+		
+		obj1.getdata();
+		
+		obj1.show();
+	
+		obj2 = 100 + obj1;
+		obj2.show();
+
+		return 0;
+	}
+				
+	   
